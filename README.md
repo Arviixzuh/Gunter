@@ -1,5 +1,5 @@
 <p  align="center">
-<img align='center' src='https://cdn.discordapp.com/avatars/777282969705644060/27a8c6bc08767a4d17e47495e866042d.webp?size=1024' width="200px"  height='200px'>
+<img align='center' src='https://cdn.discordapp.com/attachments/909121957562314803/912077715715280936/download.png' width="200px"  height='200px'>
 </p>
 <h1  align="center">Gunter ✨</h1>
 <p  align="center">
