@@ -25,5 +25,15 @@ Si tienes algun probleba o duda puedes unirte al servidor de [soporte](https://i
 
 Actualmente cuento con una decente variedad de comandos
 
-¡puedes verlos colocando gu!help en tu servidor!
+Categorias                   |
+---------------------------- |
+📜 `Información`             | 
+🔨 `Moderación`              | 
+👋 `Interacción`             | 
+😄 `Diversión`               | 
+🎮 `Juegos`                  |
+🔞 `NSFW`                    | 
+🛠️ `Útililes`                 | 
+⚙️ `Configuración`           | 
+🎵`Musica`                   | 
  
