@@ -1,7 +1,7 @@
 <p  align="center">
 <img align='center' src='https://cdn.discordapp.com/attachments/909121957562314803/912077715715280936/download.png' width="200px"  height='200px'>
 </p>
-<h1  align="center">Gunter ✨</h1>
+<h1  align="center">Gunter</h1>
 <p  align="center">
 </p>
 
@@ -9,7 +9,7 @@
 
 ¡Hola!, mi nombre es Gunter. Soy un bot multifuncional de Discord ❤
 
-## ¿Desarolladores?
+## ¿Desarollador?
 
 Mi desarollador es:  `ImVictor#0217`
 
