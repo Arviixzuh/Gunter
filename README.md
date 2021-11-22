@@ -25,17 +25,17 @@ Si tienes algun probleba o duda puedes unirte al servidor de [soporte](https://i
 
 Actualmente cuento con una decente variedad de comandos
 
-Categorias                   |
----------------------------- |
-📜 `Información`             | 
-🔨 `Moderación`              | 
-👋 `Interacción`             | 
-😄 `Diversión`               | 
-🎮 `Juegos`                  |
-🔞 `NSFW`                    | 
-🛠️ `Útililes`                 | 
-⚙️ `Configuración`           | 
-🎵`Musica`                   | 
+Categorias                 
+---------------------|
+📜 `Información`     | 
+🔨 `Moderación`      | 
+👋 `Interacción`     | 
+😄 `Diversión`       | 
+🎮 `Juegos`          |  
+🔞 `NSFW`            |    
+🛠️ `Útililes`         |
+⚙️ `Configuración`   |      
+🎵`Musica`           |         
 
 [Informacion mas detalla aquí](https://discord.com/oauth2/authorize?client_id=666685928428797962&scope=bot&permissions=8)
  
