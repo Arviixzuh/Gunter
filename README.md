@@ -31,11 +31,12 @@ Categorias
 🔨 `Moderación`      | 
 👋 `Interacción`     | 
 😄 `Diversión`       | 
-🎮 `Juegos`          |  
+🎮 `Juegos`          | 
+📷 `Imagenes`        | 
 🔞 `NSFW`            |    
-🛠️ `Útililes`         |
-⚙️ `Configuración`   |      
-🎵`Musica`           |         
+🛠️ `Útililes`         | 
+🎵`Musica`           | 
+⚙️ `Configuración`   |     
 
 [Informacion mas detalla aquí](https://discord.com/oauth2/authorize?client_id=666685928428797962&scope=bot&permissions=8)
  
