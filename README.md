@@ -11,7 +11,7 @@
 
 ## ¿Desarollador?
 
-Mi desarollador es:  `ImVictor#0217`
+Mi desarollador es:  `Arviixzuh_#0217`
 
 ## ¿Como añado el bot a mi servidor?
 
@@ -34,7 +34,7 @@ Categorias
 🎮 `Juegos`          | 
 📷 `Imagenes`        | 
 🔞 `NSFW`            |    
-🛠️ `Útililes`         | 
+🛠️ `Útililes`        | 
 🎵`Musica`           | 
 ⚙️ `Configuración`   |     
 
