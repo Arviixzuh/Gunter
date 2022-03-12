@@ -7,23 +7,23 @@
 
 ## ❓ ¿Quien soy?
 
-¡Hola!, mi nombre es Gunter. Soy un bot multifuncional de Discord ❤
+- ¡Hola!, mi nombre es Gunter. Soy un bot multifuncional de Discord ❤
 
 ## ☃️ Desarollador
 
-Mi desarollador es:  `Arviixzuh_#0217` y está muy guapo 😳
+- Mi desarollador es:  `Arviixzuh_#0217` y está muy guapo 😳
 
 ## 🤔 ¿Como añado el bot a mi servidor?
 
-¡Es muy sencillo! Aqui te dejo un link de invitación [» Click aquí «](https://discord.com/oauth2/authorize?client_id=908862622672236635&scope=bot&permissions=8)
+- ¡Es muy sencillo! Aqui te dejo un link de invitación [» Click aquí «](https://discord.com/oauth2/authorize?client_id=908862622672236635&scope=bot&permissions=8)
 
 ## 📝 Soporte
 
-Si tienes algún problema o duda puedes unirte al servidor de Soporte [» Click aquí «](https://invite.cactusfire.xyz)
+- Si tienes algún problema o duda puedes unirte al servidor de Soporte [» Click aquí «](https://invite.cactusfire.xyz)
 
 ## ✨ Funcionalidades 
 
-Actualmente cuento con una decente variedad de comandos
+- Actualmente cuento con una decente variedad de comandos
 
 Categorias                 
 ---------------------|
