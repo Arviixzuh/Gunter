@@ -38,5 +38,5 @@ Categorias
 🎵 `Musica`          | 
 ⚙️ `Configuración`   |     
 
-[Informacion mas detalla aquí](https://discord.com/oauth2/authorize?client_id=908862622672236635&scope=bot&permissions=8)
+• [Informacion mas detalla aquí](https://discord.com/oauth2/authorize?client_id=908862622672236635&scope=bot&permissions=8) •
  
