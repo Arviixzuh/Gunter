@@ -19,7 +19,7 @@ Mi desarollador es:  `Arviixzuh_#0217`
 
 ## ¡Soporte!
 
-Si tienes algun probleba o duda puedes unirte al servidor de [soporte](https://invite.cactusfire.xyz)
+Si tienes algun problema o duda puedes unirte al servidor de [soporte](https://invite.cactusfire.xyz)
 
 ## ¡Funcionalidades!
 
