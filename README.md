@@ -45,5 +45,4 @@ Categorias
 
 <img align='center' src='https://media.discordapp.net/attachments/909121957562314803/952067330257584148/ScreenShot_20220312004916.png' width="400px"  height='250px'>
 
-• [¿Que esperas para añadirme?](https://discord.com/oauth2/authorize?client_id=908862622672236635&scope=bot&permissions=8) •
- 
+© 2022 Arviixzuh
