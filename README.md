@@ -1,7 +1,7 @@
 <p  align="center">
 <img src='https://media.discordapp.net/attachments/909121957562314803/1013112999562723388/gunter.png?width=429&height=427' width="200px"  height='200px'>
 </p>
-<h1> Gunter </h1>
+<h1 align="center"> Gunter </h1>
 
 <h3>❓ ¿Que es esto?</h3>
 
