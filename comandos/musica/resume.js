@@ -30,6 +30,8 @@ module.exports = {
     }})
 
       client.distube.resume(message)
+      client.distube.pause(message)
+      client.distube.resume(message)
 
       const embed = new Discord.MessageEmbed()
       .setDescription(`<a:disco:913640838884655134> • **¡La canción fue resumida!**`)
