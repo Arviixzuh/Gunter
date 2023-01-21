@@ -42,5 +42,5 @@ Especificaciones
 📜 `Lenguaje` [JavaScript](https://es.wikipedia.org/wiki/JavaScript)  |
 🔨 `Libreria` [Discord.js](https://discord.js.org/#/)                 | 
 🍃 `Framework` [Node.js](https://nodejs.org/en/)                      |
-
+a
 <p>⚠️ Este proyecto se encuentra en pausa - descontinuado.</p>
