@@ -4,7 +4,7 @@
 <h1 align="center"> Gunter </h1>
 
 <h3>❓ ¿Que es esto?</h3>
-
+A
 - Gunter: Es un bot multifuncional para Discord, que será tu mano derecha en el servidor ❤
 
 <h3>☃️ Desarollador</h3>
